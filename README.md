@@ -18,7 +18,7 @@
 
 以下是我的一些开源项目：
 
-- **[Antitna](https://antitna.xyz)**：TrustWallet 防红系统 | 链接安全与防拦截解决方案.
+- **[Antitna](https://antitna.xyz)**：Antina Web3/TrustWallet 防红系统 | 链接安全与防拦截解决方案.
 
 ## 🌐 联系我
 
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I specialize in creating decentralized application
 
 Here are some of my open-source projects:
 
-- **[Antitna](https://antitna.xyz)**：TrustWallet Anti-Blocking System | Link Security and Anti-Interception Solution.
+- **[Antitna](https://antitna.xyz)**：Antina Web3/TrustWallet Anti-Blocking System | Link Security and Anti-Interception Solution.
   
 ## 🌐 Connect with Me
 
